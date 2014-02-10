@@ -2,7 +2,9 @@ ManagePowerPC
 =============
 
 This tool is used to manage PowerPC where vxWorks is running. It is written in QT 4.X.
+
 It is consisted of server and client. The server is like a proxy which is used to connect and occupy all idle PowerPC. The client can apply and give back PowerPC to server.
+
 This tool is just like the computer-manage-system used in internet cafe. The server can manage computers automatically and the client is used by customer to apply computer to server.
 
 ---
